@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from 'react-dom';
 import "bootstrap/dist/css/bootstrap.css"
-import ComingSoon from "./components/comingSoon";
+import App from "./components/app";
 
-ReactDOM.render(<ComingSoon/>, document.getElementById("root"))
+ReactDOM.render(<App/>, document.getElementById("root"))
 
